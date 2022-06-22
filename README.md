@@ -1,5 +1,5 @@
 # IABC: An Iteratively Automatic Machine Learning Boosted Hand-eye Calibration Method for the Laser Displacement Sensor
-HeLin Li (lihelin@tju.edu.cn), Bin Lin, Tianyi Sui, etc.; Tianjin University, Tianjin, China ; License: CC-BY-4.0 license
+HeLin Li (lihelin@tju.edu.cn), Bin Lin (linbin@tju.edu.cn), Tianyi Sui, etc.; Tianjin University, Tianjin, China ; License: CC-BY-4.0 license
 
 <div style="text-align: center">
 <img alt="Laser displacement sensor and Standard balls" height="400" src="img/LDS_and_stanard_balls.png" title="Laser displacement sensor and Standard balls" width="500" style="margin: 0 auto;text-align: center;"/>
