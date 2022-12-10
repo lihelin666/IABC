@@ -1,5 +1,5 @@
 # IABC: An Iteratively Automatic Machine Learning Boosted Hand-eye Calibration Method for the Laser Displacement Sensor 
-HeLin Li (lihelin@tju.edu.cn), Bin Lin (linbin@tju.edu.cn), Tianyi Sui, etc.; Tianjin University, Tianjin, China ; License: CC-BY-4.0 license @ 2022-06-07
+HeLin Li (lihelin@tju.edu.cn), Bin Lin (linbin@tju.edu.cn), Tianyi Sui, etc.; Tianjin University, Tianjin, China ; License: CC-BY-4.0 license @ 2022-06-07 updated
 
 **IABC is a novel hand-eye calibration method for robotic inspection systems with the 2D laser displacement sensor. IABC makes it possible for the analytical parameters and LDS errors to be online calibrated in one calibration process without any hardware changes. IABC caneffectively improve the measurement accuracy and precision of the systems.**
 
