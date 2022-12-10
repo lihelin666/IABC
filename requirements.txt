@@ -1,0 +1,11 @@
+jupyter
+scipy
+numpy
+pandas
+skspatial
+jupyter
+openpyxl
+pyperclip
+matplotlib
+open3d
+scikit-learn
